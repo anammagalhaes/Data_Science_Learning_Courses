@@ -5,7 +5,7 @@
 :books: All my Data Science Learning Courses and Projects
 </h1>
 <p align="center">
-  Here I present all courses that I've attended for my career as a Data Scientist - contents and certificates.
+  Here I present all courses that I've attended for my career as a Data Scientist. 
 </p>
  
 --- 

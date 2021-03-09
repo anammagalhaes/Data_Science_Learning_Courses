@@ -18,10 +18,12 @@
 ---
 ### :books: Courses & Projects :chart_with_upwards_trend:
 
-| Course  |  Date  |  Institution | Certificate |
-| ------------------- |------------------- | ------------------- | ------------------- | ------------------- |
-| **Data Science Bootcamp** |  Sept - Nov/2020 | IGTI Brazil | link |
-| **Python Fundamentals** |  Dec/2020 | IA Expert Academy | https://git.io/JLRc9 |
-| **Python Data Structures & Algoritms** |  Dec/2020 | IA Expert Academy | link |
-| **KDD Cup 2009 Kaggle ML** |  Jan/2021 | IA Expert Academy | link |
-| **Probability Theory** |  Jan/2021 | University of São Paulo/Brazil | link |
+| Course  |  Date  |  Institution | 
+| ------------------- |------------------- | ------------------- | 
+| **Escola Data Science** |  Nov/2020 - Dec/2021 | Sigmoidal | 
+| **Data Science na Prática** |  Aug/2020 - May/2021| Sigmoidal |  
+| **Santander Data Masters** |  Jul/2020 - Aug/2020| Santander Universities |
+| **Computação Científica Usando Python** |  Fev/2021 - Apr/2020 | UNICAMP |
+| **Introdução à Ciência da Computação com Python 1 e 2** |  Oct/2019 - Apr/2020| USP/Brazil | 
+| **Inteligência Artificial e Ferramentas Avançadas de Ciência de Dados** |  Oct/2019 - Apr/2020| Mackenzie | 
+| **Python - Fundamentos para Análise de Dados** |  Oct/2019 - Apr/2020| Data Science Academy | 

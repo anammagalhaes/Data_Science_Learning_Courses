@@ -2,14 +2,14 @@
 
 
 <h1 align="center">
-:books: All my Data Science Learning Courses and Projects
+:books: All my Data Science Learning Courses
 </h1>
 <p align="center">
   Here I present all courses that I've attended for my career as a Data Scientist. 
 </p>
  
 ---
-### :books: Courses & Projects :chart_with_upwards_trend:
+### :books: Courses :chart_with_upwards_trend:
 
 | Course  |  Date  |  Institution | 
 | ------------------- |------------------- | ------------------- | 

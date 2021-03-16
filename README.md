@@ -17,6 +17,7 @@
 | **Data Science na Prática** |  Aug/2020 - May/2021| Sigmoidal |  
 | **Santander Data Masters** |  Jul/2020 - Aug/2020| Santander Universities |
 | **Computação Científica Usando Python** |  Fev/2021 - Apr/2020 | UNICAMP |
-| **Introdução à Ciência da Computação com Python 1 e 2** |  Oct/2019 - Apr/2020| USP/Brazil | 
+| **Introdução à Ciência da Computação com Python 1 e 2** |  Oct/2019 - Apr/2020| USP/Coursera | 
 | **Inteligência Artificial e Ferramentas Avançadas de Ciência de Dados** |  Oct/2019 - Apr/2020| Mackenzie | 
 | **Python - Fundamentos para Análise de Dados** |  Oct/2019 - Apr/2020| Data Science Academy | 
+| **SQL for Data Science** |  Jan/2021 - Fev/2021| UC Davis/Coursera | 
